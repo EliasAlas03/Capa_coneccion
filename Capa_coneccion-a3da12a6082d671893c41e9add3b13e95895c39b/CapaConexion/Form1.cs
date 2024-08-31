@@ -8,10 +8,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaConexion.Modelos;
 
 namespace CapaConexion
 {
     public partial class Form1 : Form
+        
     {
         public Form1()
         {
@@ -25,12 +27,11 @@ namespace CapaConexion
             MessageBox.Show("Conexion creada");
             conexion.Open();
 
-
-
             //------------------------
 
             String selectFrom = "";
-            selectFrom = selectFrom + "SELECT [CompanyName] " + "\n";
+            selectFrom = selectFrom + "SELECT " + "\n";
+            selectFrom = selectFrom + "      [CompanyName] " + "\n";
             selectFrom = selectFrom + "      ,[ContactName] " + "\n";
             selectFrom = selectFrom + "      ,[ContactTitle] " + "\n";
             selectFrom = selectFrom + "      ,[Address] " + "\n";
@@ -43,21 +44,30 @@ namespace CapaConexion
             selectFrom = selectFrom + "  FROM [dbo].[Customers]";
 
             //-----------------------
-            //Probado
-
-
-
 
             SqlCommand comando = new SqlCommand(selectFrom, conexion);
             SqlDataReader reader = comando.ExecuteReader();
 
+            List<customers> Customers = new List<customers>();
+
             while (reader.Read())
             {
-                var customerId = reader["CompanyName"];
-            }
 
-            MessageBox.Show("Conexion cerrada");
-            conexion.Close();
+                customers customers = new customers();
+                customers.CompanyName = reader["CompanyName"] == DBNull.Value ? "" : (String)reader["CompanyName"];
+                customers.ContactName = reader["ContactName"] == DBNull.Value ? "" : (String)reader["ContactName"];
+                customers.ContactTitle = reader["ContactTitle"] == DBNull.Value ? "" : (String)reader["ContactTitle"];
+                customers.Address = reader["Address"] == DBNull.Value ? "" : (String)reader["Address"];
+                customers.City = reader["City"] == DBNull.Value ? "" : (String)reader["City"];
+                customers.Region = reader["Region"] == DBNull.Value ? "" : (String)reader["Region"];
+                customers.PostalCode = reader["PostalCode"] == DBNull.Value ? "" : (String)reader["PostalCode"];
+                customers.Country = reader["Country"] == DBNull.Value ? "" : (String)reader["Country"];
+                customers.Phone = reader["Phone"] == DBNull.Value ? "" : (String)reader["Phone"];
+                customers.Fax = reader["Fax"] == DBNull.Value ? "" : (String)reader["Fax"];
+
+                Customers.Add(customers);
+            }
         }
     }
 }
+
