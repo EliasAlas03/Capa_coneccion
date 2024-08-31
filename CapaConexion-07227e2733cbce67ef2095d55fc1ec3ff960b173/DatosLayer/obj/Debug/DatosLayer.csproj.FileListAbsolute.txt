@@ -1,0 +1,12 @@
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.pdb
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-07227e2733cbce67ef2095d55fc1ec3ff960b173\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-07227e2733cbce67ef2095d55fc1ec3ff960b173\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-07227e2733cbce67ef2095d55fc1ec3ff960b173\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-07227e2733cbce67ef2095d55fc1ec3ff960b173\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-07227e2733cbce67ef2095d55fc1ec3ff960b173\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-07227e2733cbce67ef2095d55fc1ec3ff960b173\DatosLayer\obj\Debug\DatosLayer.pdb
