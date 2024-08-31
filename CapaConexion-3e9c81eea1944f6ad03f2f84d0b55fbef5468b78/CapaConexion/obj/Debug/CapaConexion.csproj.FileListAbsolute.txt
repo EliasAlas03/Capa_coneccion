@@ -1,0 +1,20 @@
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-3e9c81eea1944f6ad03f2f84d0b55fbef5468b78\CapaConexion\obj\Debug\CapaConexion.pdb
