@@ -1,0 +1,6 @@
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-04f11ae9ead444ba477fe9f6ff1741965e470f74\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-04f11ae9ead444ba477fe9f6ff1741965e470f74\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-04f11ae9ead444ba477fe9f6ff1741965e470f74\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-04f11ae9ead444ba477fe9f6ff1741965e470f74\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-04f11ae9ead444ba477fe9f6ff1741965e470f74\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\Elias Alas\Desktop\ja\CapaConexion-04f11ae9ead444ba477fe9f6ff1741965e470f74\DatosLayer\obj\Debug\DatosLayer.pdb
